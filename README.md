@@ -4,7 +4,7 @@ This is a project of the Scrimba [Responsive Web Design](https://scrimba.com/lea
 
 ## About The Project 
 
-![Jake & Elwood screenshot](./screenshot.jpg)
+![Jake & Elwood screenshot](https://user-images.githubusercontent.com/69361901/197350958-2be94766-3616-438b-a0f6-31de03545c44.png)
 
 The project aims to create a website using a mobile-first approach.
 
